@@ -7,7 +7,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  background-color: #bcbcbc;
   color: #212121;
   line-height: 1.5;
 }
@@ -20,5 +20,12 @@ body {
 }
 
 .country-list {
+  margin: auto;
+  padding: 20px;
+  font-weight: 700;
   list-style: none;
+}
+
+.country-info {
+  font-weight: 700;
 }
