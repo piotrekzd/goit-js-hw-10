@@ -12,6 +12,11 @@ body {
   line-height: 1.5;
 }
 
+input {
+  width: 250px;
+  font-weight: 700;
+}
+
 #search-box {
   font: inherit;
   padding: 8px;
@@ -22,10 +27,10 @@ body {
 .country-list {
   margin: auto;
   padding: 20px;
-  font-weight: 700;
   list-style: none;
+  font-weight: 500;
 }
 
 .country-info {
-  font-weight: 700;
+  font-weight: 500;
 }
